@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{ 
+    color: dark;
+    text-align: center; }
+
+p.noidung {color: blue ; text-align: center; }
+
+body phan2{
+    background-color:white;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.div1{
+    width: 361px;
+    padding: 28px;
+    float: left;
+    margin-right: 0;
+}
+.div1 img{
+    width: 100%;
+}
+.div1 p{
+    font-size: 16px;
+    color: rgb(160 160 160);
+    word-spacing: 5px;
+    line-height: 1.5;
+    display: block;
+}
+.div1 h2{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.div1 div{
+    background-color: white;
+    height: 350px;
+}
+.div1 p, .div1 h2{
+    padding-left: 18px;
+    padding-right: 18px;
+}
