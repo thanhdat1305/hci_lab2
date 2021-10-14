@@ -7,12 +7,15 @@ h1{
 
 p.noidung {color: blue ; text-align: center; }
 
-body phan2{
-    background-color:white;
-    margin-left: 120px;
-    margin-right: 120px;
+body {
+    background-color: rgb(232, 232, 232);
+    margin-left: auto;
+    margin-right: auto;  
+    
 }
-
+.all{
+    margin-top: 30px;
+}
 .div1{
     width: 361px;
     padding: 28px;
@@ -27,7 +30,7 @@ body phan2{
     color: rgb(160 160 160);
     word-spacing: 5px;
     line-height: 1.5;
-    display: block;
+    
 }
 .div1 h2{
     margin-top: 20px;
@@ -35,9 +38,9 @@ body phan2{
 }
 .div1 div{
     background-color: white;
-    height: 350px;
+    height: 400px;
 }
 .div1 p, .div1 h2{
-    padding-left: 18px;
-    padding-right: 18px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
